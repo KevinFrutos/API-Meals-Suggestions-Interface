@@ -1,6 +1,8 @@
-# API - TodoList
+# API - Diet Suggest Interface
 
-A RESTful API for managing user authentication and todo notes, built with Node.js, TypeScript, MongoDB, and Redis using Hexagonal Architecture.
+A RESTful API designed to provide personalized diet suggestions based on user-specific health attributes and preferences. Built with Node.js, TypeScript, MongoDB, and Redis, and structured using Hexagonal Architecture to promote scalability and maintainability.
+
+This API includes user authentication, secure JWT-based authorization, diet recommendation logic, and user profile management. It is integrated with Sentry for error monitoring and uses GroqCloud for advanced AI-driven responses.
 
 ---
 
